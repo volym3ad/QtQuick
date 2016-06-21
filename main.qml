@@ -29,6 +29,7 @@ ApplicationWindow {
             TextField {
                 id: textSearch
                 implicitWidth: 200
+                placeholderText: "Search"
                 anchors.right: parent.right
             }
         }
